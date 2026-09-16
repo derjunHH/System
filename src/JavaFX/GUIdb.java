@@ -1,6 +1,6 @@
-package com;
+package JavaFX;
 
-import com.DBConfig;
+import JavaFX.DBConfig;
 import java.sql.*;
 
 import javafx.application.*;
