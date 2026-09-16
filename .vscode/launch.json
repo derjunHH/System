@@ -1,0 +1,19 @@
+{
+    
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GUIdb",
+            "request": "launch",
+            "mainClass": "com.GUIdb",
+            "projectName": "JDBC_JavaFX_c478c80a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "vmArgs": "--module-path \"D:\\ShengChanLi\\Javafx_sdk\\javafx-sdk-21.0.11\\lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.media,javafx.web,javafx.swing,javafx.swt",
+            "mainClass": "${file}"
+        }
+    ]
+}
